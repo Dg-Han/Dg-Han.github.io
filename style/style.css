@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+}
+.left{
+    width: 60%;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 25px;
+}
+.right{
+    width:25%;
+}
